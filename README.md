@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello, I'm Chidalu Cynthia 👋
+
+I'm an aspiring Cloud Security Practitioner, building practical skills in AWS cloud infrastructure, networking and cybersecurity.
+
+I'm interested in understanding how cloud environments are designed, deployed, secured and monitored. I'm learning by getting hands-on with AWS, exploring how things work and documenting my progress along the way.## Hi there 👋
 
 <!--
 **Chidalu-Cynthia/Chidalu-Cynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
