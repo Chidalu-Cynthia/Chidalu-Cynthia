@@ -2,19 +2,17 @@
 
 I'm an aspiring Cloud Security Practitioner, building practical skills in AWS cloud infrastructure, networking and cybersecurity.
 
-I'm interested in understanding how cloud environments are designed, deployed, secured and monitored. I'm learning by getting hands-on with AWS, exploring how things work and documenting my progress along the way.## Hi there 👋
+I'm interested in understanding how cloud environments are designed, deployed, secured and monitored. I'm learning by getting hands-on with AWS, exploring how things work and documenting my progress along the way.
 
-<!--
-**Chidalu-Cynthia/Chidalu-Cynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Exploring
+- AWS Cloud Infrastructure
+- Cloud Networking and Security
+- Linux Administration
+- Security Monitoring
 
-Here are some ideas to get you started:
+### My Work
+Explore my repositories below to see the projects I'm building and the practical work I'm documenting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/chidalu-cynthia-nlagu-60a6b42b5)
+- [X](https://x.com/iam_dalucynthia)
