@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="./aws-banner.gif" alt="AWS Cloud Banner" width="100%">
+</p>
 # Hello, I'm Chidalu Cynthia 👋
 
 I'm an aspiring Cloud Security Practitioner, building practical skills in AWS cloud infrastructure, networking and cybersecurity.
