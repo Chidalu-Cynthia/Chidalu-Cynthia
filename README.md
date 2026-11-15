@@ -1,6 +1,6 @@
 
-<p align="center">
-  <img src="./aws-banner.gif" alt="AWS Cloud Banner" width="100%">
+<p align="right">
+  <img src="./aws-banner.gif" alt="AWS Cloud Banner" width="25%">
 </p>
 # Hello, I'm Chidalu Cynthia 👋
 
