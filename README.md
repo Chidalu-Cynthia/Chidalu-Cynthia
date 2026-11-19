@@ -1,4 +1,6 @@
-# Hello, I'm Chidalu Cynthia 👋
+<p align="center">
+  <img src="https://github.com/Chidalu-Cynthia/Chidalu-Cynthia/blob/78e67edcd9647b1f5bc7b258b3ba7df10c186bc0/GITHUB%20PROFILE%20HEADER.png?raw=true" alt="Chidalu Cynthia – Aspiring Cloud Security Engineer" width="100%" />
+</p>
 
 ### ☁️ Aspiring Cloud Security Engineer | Learning • Building • Documenting
 
