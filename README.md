@@ -20,10 +20,17 @@ Entry-level jobs, internships and collaboration, so I can gain hands-on experien
 ## 📂 My Work
 
 ### ☁️ [AWS Cloud Infrastructure and Security Labs](https://github.com/Chidalu-Cynthia/AWS-Cloud-Infrastructure-and-Security-Labs)
-Hands-on labs where I build and secure AWS cloud infrastructure, and document what I learn along the way.
+Hands-on labs where I built and secured core AWS services in my own AWS account, documenting each step along the way.
+
+**Covered so far:**
+- 🌐 VPC networking
+- 🖥️ EC2 and Linux
+- 💾 Storage: EBS, S3 and EFS
+- 🔐 IAM security
+- 📊 Monitoring and auditing
+- ⚡ Lambda and Elastic Load Balancing
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Chidalu-Cynthia/AWS-Cloud-Infrastructure-and-Security-Labs)
-
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chidalu-cynthia-nlagu-60a6b42b5)
 - [X](https://x.com/iam_dalucynthia)
