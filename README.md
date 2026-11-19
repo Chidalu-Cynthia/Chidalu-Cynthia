@@ -17,3 +17,10 @@ Explore my repositories below to see the projects I'm building and the practical
 ### Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chidalu-cynthia-nlagu-60a6b42b5)
 - [X](https://x.com/iam_dalucynthia)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B14,100:F5B103&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=26&fontColor=ffffff&fontAlignY=62&desc=Let's%20Connect%20and%20Secure%20the%20Cloud%20Together!&descSize=15&descAlignY=84" />
+</p>
+
+<p align="center">
+  <b>💼 Open to Work | 🤝 Open to Collaboration | 🚀 Ready to Contribute | 🎯 Focused on Cloud Security</b>
+</p>
