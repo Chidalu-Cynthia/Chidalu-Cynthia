@@ -18,8 +18,11 @@ Entry-level jobs, internships and collaboration, so I can gain hands-on experien
 <!-- Add only what you've actually used -->
 
 ## 📂 My Work
-- **[Project / Lab name]** – one line on what you built or learned
-- **[Project / Lab name]** – one line on what you built or learned
+
+### ☁️ [AWS Cloud Infrastructure and Security Labs](https://github.com/Chidalu-Cynthia/AWS-Cloud-Infrastructure-and-Security-Labs)
+Hands-on labs where I build and secure AWS cloud infrastructure, and document what I learn along the way.
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Chidalu-Cynthia/AWS-Cloud-Infrastructure-and-Security-Labs)
 
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chidalu-cynthia-nlagu-60a6b42b5)
